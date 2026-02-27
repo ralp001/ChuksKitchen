@@ -1,0 +1,11 @@
+C:\Users\USER\Desktop\True MInds\ChucksKitchenAPI\ChucksKitchen\ChucksKitchen.Domain\bin\Debug\net10.0\ChuksKitchen.Domain.deps.json
+C:\Users\USER\Desktop\True MInds\ChucksKitchenAPI\ChucksKitchen\ChucksKitchen.Domain\bin\Debug\net10.0\ChuksKitchen.Domain.dll
+C:\Users\USER\Desktop\True MInds\ChucksKitchenAPI\ChucksKitchen\ChucksKitchen.Domain\bin\Debug\net10.0\ChuksKitchen.Domain.pdb
+C:\Users\USER\Desktop\True MInds\ChucksKitchenAPI\ChucksKitchen\ChucksKitchen.Domain\obj\Debug\net10.0\ChuksKitchen.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\True MInds\ChucksKitchenAPI\ChucksKitchen\ChucksKitchen.Domain\obj\Debug\net10.0\ChuksKitchen.Domain.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\True MInds\ChucksKitchenAPI\ChucksKitchen\ChucksKitchen.Domain\obj\Debug\net10.0\ChuksKitchen.Domain.AssemblyInfo.cs
+C:\Users\USER\Desktop\True MInds\ChucksKitchenAPI\ChucksKitchen\ChucksKitchen.Domain\obj\Debug\net10.0\ChuksKitchen.Domain.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\True MInds\ChucksKitchenAPI\ChucksKitchen\ChucksKitchen.Domain\obj\Debug\net10.0\ChuksKitchen.Domain.dll
+C:\Users\USER\Desktop\True MInds\ChucksKitchenAPI\ChucksKitchen\ChucksKitchen.Domain\obj\Debug\net10.0\refint\ChuksKitchen.Domain.dll
+C:\Users\USER\Desktop\True MInds\ChucksKitchenAPI\ChucksKitchen\ChucksKitchen.Domain\obj\Debug\net10.0\ChuksKitchen.Domain.pdb
+C:\Users\USER\Desktop\True MInds\ChucksKitchenAPI\ChucksKitchen\ChucksKitchen.Domain\obj\Debug\net10.0\ref\ChuksKitchen.Domain.dll

@@ -1,0 +1,518 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\True MInds\\ChucksKitchenAPI\\ChucksKitchen\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB33B5D3-CF54-B478-E35D-979D363CD8E2}|ChucksKitchen.Application\\ChuksKitchen.Application.csproj|c:\\users\\user\\desktop\\true minds\\chuckskitchenapi\\chuckskitchen\\chuckskitchen.application\\users\\commands\\registeruservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB33B5D3-CF54-B478-E35D-979D363CD8E2}|ChucksKitchen.Application\\ChuksKitchen.Application.csproj|solutionrelative:chuckskitchen.application\\users\\commands\\registeruservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81162A74-0B3E-9DF3-36B7-FCB9ABEEBB76}|ChucksKitchen.API\\ChuksKitchen.API.csproj|c:\\users\\user\\desktop\\true minds\\chuckskitchenapi\\chuckskitchen\\chuckskitchen.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81162A74-0B3E-9DF3-36B7-FCB9ABEEBB76}|ChucksKitchen.API\\ChuksKitchen.API.csproj|solutionrelative:chuckskitchen.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81162A74-0B3E-9DF3-36B7-FCB9ABEEBB76}|ChucksKitchen.API\\ChuksKitchen.API.csproj|c:\\users\\user\\desktop\\true minds\\chuckskitchenapi\\chuckskitchen\\chuckskitchen.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{81162A74-0B3E-9DF3-36B7-FCB9ABEEBB76}|ChucksKitchen.API\\ChuksKitchen.API.csproj|solutionrelative:chuckskitchen.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81162A74-0B3E-9DF3-36B7-FCB9ABEEBB76}|ChucksKitchen.API\\ChuksKitchen.API.csproj|c:\\users\\user\\desktop\\true minds\\chuckskitchenapi\\chuckskitchen\\chuckskitchen.api\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81162A74-0B3E-9DF3-36B7-FCB9ABEEBB76}|ChucksKitchen.API\\ChuksKitchen.API.csproj|solutionrelative:chuckskitchen.api\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB33B5D3-CF54-B478-E35D-979D363CD8E2}|ChucksKitchen.Application\\ChuksKitchen.Application.csproj|c:\\users\\user\\desktop\\true minds\\chuckskitchenapi\\chuckskitchen\\chuckskitchen.application\\orders\\queries\\getorderstatushandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB33B5D3-CF54-B478-E35D-979D363CD8E2}|ChucksKitchen.Application\\ChuksKitchen.Application.csproj|solutionrelative:chuckskitchen.application\\orders\\queries\\getorderstatushandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB33B5D3-CF54-B478-E35D-979D363CD8E2}|ChucksKitchen.Application\\ChuksKitchen.Application.csproj|c:\\users\\user\\desktop\\true minds\\chuckskitchenapi\\chuckskitchen\\chuckskitchen.application\\orders\\queries\\getorderstatusquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB33B5D3-CF54-B478-E35D-979D363CD8E2}|ChucksKitchen.Application\\ChuksKitchen.Application.csproj|solutionrelative:chuckskitchen.application\\orders\\queries\\getorderstatusquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB33B5D3-CF54-B478-E35D-979D363CD8E2}|ChucksKitchen.Application\\ChuksKitchen.Application.csproj|c:\\users\\user\\desktop\\true minds\\chuckskitchenapi\\chuckskitchen\\chuckskitchen.application\\orders\\commands\\placeorderhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB33B5D3-CF54-B478-E35D-979D363CD8E2}|ChucksKitchen.Application\\ChuksKitchen.Application.csproj|solutionrelative:chuckskitchen.application\\orders\\commands\\placeorderhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB33B5D3-CF54-B478-E35D-979D363CD8E2}|ChucksKitchen.Application\\ChuksKitchen.Application.csproj|c:\\users\\user\\desktop\\true minds\\chuckskitchenapi\\chuckskitchen\\chuckskitchen.application\\orders\\commands\\placeordercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB33B5D3-CF54-B478-E35D-979D363CD8E2}|ChucksKitchen.Application\\ChuksKitchen.Application.csproj|solutionrelative:chuckskitchen.application\\orders\\commands\\placeordercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB33B5D3-CF54-B478-E35D-979D363CD8E2}|ChucksKitchen.Application\\ChuksKitchen.Application.csproj|c:\\users\\user\\desktop\\true minds\\chuckskitchenapi\\chuckskitchen\\chuckskitchen.application\\foods\\queries\\getfooditemshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB33B5D3-CF54-B478-E35D-979D363CD8E2}|ChucksKitchen.Application\\ChuksKitchen.Application.csproj|solutionrelative:chuckskitchen.application\\foods\\queries\\getfooditemshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81162A74-0B3E-9DF3-36B7-FCB9ABEEBB76}|ChucksKitchen.API\\ChuksKitchen.API.csproj|c:\\users\\user\\desktop\\true minds\\chuckskitchenapi\\chuckskitchen\\chuckskitchen.api\\controllers\\foodscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81162A74-0B3E-9DF3-36B7-FCB9ABEEBB76}|ChucksKitchen.API\\ChuksKitchen.API.csproj|solutionrelative:chuckskitchen.api\\controllers\\foodscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB33B5D3-CF54-B478-E35D-979D363CD8E2}|ChucksKitchen.Application\\ChuksKitchen.Application.csproj|c:\\users\\user\\desktop\\true minds\\chuckskitchenapi\\chuckskitchen\\chuckskitchen.application\\chukskitchen.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EB33B5D3-CF54-B478-E35D-979D363CD8E2}|ChucksKitchen.Application\\ChuksKitchen.Application.csproj|solutionrelative:chuckskitchen.application\\chukskitchen.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB33B5D3-CF54-B478-E35D-979D363CD8E2}|ChucksKitchen.Application\\ChuksKitchen.Application.csproj|c:\\users\\user\\desktop\\true minds\\chuckskitchenapi\\chuckskitchen\\chuckskitchen.application\\foods\\queries\\getfooditemsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB33B5D3-CF54-B478-E35D-979D363CD8E2}|ChucksKitchen.Application\\ChuksKitchen.Application.csproj|solutionrelative:chuckskitchen.application\\foods\\queries\\getfooditemsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49982913-91E0-FEC5-A090-BA1310EEC6E3}|ChucksKitchen.Infrastructure\\ChuksKitchen.Infrastructure.csproj|c:\\users\\user\\desktop\\true minds\\chuckskitchenapi\\chuckskitchen\\chuckskitchen.infrastructure\\persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49982913-91E0-FEC5-A090-BA1310EEC6E3}|ChucksKitchen.Infrastructure\\ChuksKitchen.Infrastructure.csproj|solutionrelative:chuckskitchen.infrastructure\\persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49982913-91E0-FEC5-A090-BA1310EEC6E3}|ChucksKitchen.Infrastructure\\ChuksKitchen.Infrastructure.csproj|c:\\users\\user\\desktop\\true minds\\chuckskitchenapi\\chuckskitchen\\chuckskitchen.infrastructure\\seeders\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49982913-91E0-FEC5-A090-BA1310EEC6E3}|ChucksKitchen.Infrastructure\\ChuksKitchen.Infrastructure.csproj|solutionrelative:chuckskitchen.infrastructure\\seeders\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB33B5D3-CF54-B478-E35D-979D363CD8E2}|ChucksKitchen.Application\\ChuksKitchen.Application.csproj|c:\\users\\user\\desktop\\true minds\\chuckskitchenapi\\chuckskitchen\\chuckskitchen.application\\users\\commands\\registeruserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB33B5D3-CF54-B478-E35D-979D363CD8E2}|ChucksKitchen.Application\\ChuksKitchen.Application.csproj|solutionrelative:chuckskitchen.application\\users\\commands\\registeruserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB33B5D3-CF54-B478-E35D-979D363CD8E2}|ChucksKitchen.Application\\ChuksKitchen.Application.csproj|c:\\users\\user\\desktop\\true minds\\chuckskitchenapi\\chuckskitchen\\chuckskitchen.application\\users\\commands\\verifyotphandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB33B5D3-CF54-B478-E35D-979D363CD8E2}|ChucksKitchen.Application\\ChuksKitchen.Application.csproj|solutionrelative:chuckskitchen.application\\users\\commands\\verifyotphandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49982913-91E0-FEC5-A090-BA1310EEC6E3}|ChucksKitchen.Infrastructure\\ChuksKitchen.Infrastructure.csproj|c:\\users\\user\\desktop\\true minds\\chuckskitchenapi\\chuckskitchen\\chuckskitchen.infrastructure\\chukskitchen.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{49982913-91E0-FEC5-A090-BA1310EEC6E3}|ChucksKitchen.Infrastructure\\ChuksKitchen.Infrastructure.csproj|solutionrelative:chuckskitchen.infrastructure\\chukskitchen.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB33B5D3-CF54-B478-E35D-979D363CD8E2}|ChucksKitchen.Application\\ChuksKitchen.Application.csproj|c:\\users\\user\\desktop\\true minds\\chuckskitchenapi\\chuckskitchen\\chuckskitchen.application\\common\\interfaces\\iapplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB33B5D3-CF54-B478-E35D-979D363CD8E2}|ChucksKitchen.Application\\ChuksKitchen.Application.csproj|solutionrelative:chuckskitchen.application\\common\\interfaces\\iapplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81162A74-0B3E-9DF3-36B7-FCB9ABEEBB76}|ChucksKitchen.API\\ChuksKitchen.API.csproj|c:\\users\\user\\desktop\\true minds\\chuckskitchenapi\\chuckskitchen\\chuckskitchen.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81162A74-0B3E-9DF3-36B7-FCB9ABEEBB76}|ChucksKitchen.API\\ChuksKitchen.API.csproj|solutionrelative:chuckskitchen.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB33B5D3-CF54-B478-E35D-979D363CD8E2}|ChucksKitchen.Application\\ChuksKitchen.Application.csproj|c:\\users\\user\\desktop\\true minds\\chuckskitchenapi\\chuckskitchen\\chuckskitchen.application\\users\\commands\\verifyotpcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB33B5D3-CF54-B478-E35D-979D363CD8E2}|ChucksKitchen.Application\\ChuksKitchen.Application.csproj|solutionrelative:chuckskitchen.application\\users\\commands\\verifyotpcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB33B5D3-CF54-B478-E35D-979D363CD8E2}|ChucksKitchen.Application\\ChuksKitchen.Application.csproj|c:\\users\\user\\desktop\\true minds\\chuckskitchenapi\\chuckskitchen\\chuckskitchen.application\\common\\jsonresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB33B5D3-CF54-B478-E35D-979D363CD8E2}|ChucksKitchen.Application\\ChuksKitchen.Application.csproj|solutionrelative:chuckskitchen.application\\common\\jsonresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81162A74-0B3E-9DF3-36B7-FCB9ABEEBB76}|ChucksKitchen.API\\ChuksKitchen.API.csproj|c:\\users\\user\\desktop\\true minds\\chuckskitchenapi\\chuckskitchen\\chuckskitchen.api\\chukskitchen.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{81162A74-0B3E-9DF3-36B7-FCB9ABEEBB76}|ChucksKitchen.API\\ChuksKitchen.API.csproj|solutionrelative:chuckskitchen.api\\chukskitchen.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7744F025-E004-133D-20AD-D6DD06DB8207}|ChucksKitchen.Domain\\ChuksKitchen.Domain.csproj|c:\\users\\user\\desktop\\true minds\\chuckskitchenapi\\chuckskitchen\\chuckskitchen.domain\\chukskitchen.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7744F025-E004-133D-20AD-D6DD06DB8207}|ChucksKitchen.Domain\\ChuksKitchen.Domain.csproj|solutionrelative:chuckskitchen.domain\\chukskitchen.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB33B5D3-CF54-B478-E35D-979D363CD8E2}|ChucksKitchen.Application\\ChuksKitchen.Application.csproj|c:\\users\\user\\desktop\\true minds\\chuckskitchenapi\\chuckskitchen\\chuckskitchen.application\\users\\commands\\registerusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB33B5D3-CF54-B478-E35D-979D363CD8E2}|ChucksKitchen.Application\\ChuksKitchen.Application.csproj|solutionrelative:chuckskitchen.application\\users\\commands\\registerusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB33B5D3-CF54-B478-E35D-979D363CD8E2}|ChucksKitchen.Application\\ChuksKitchen.Application.csproj|c:\\users\\user\\desktop\\true minds\\chuckskitchenapi\\chuckskitchen\\chuckskitchen.application\\assemblyreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB33B5D3-CF54-B478-E35D-979D363CD8E2}|ChucksKitchen.Application\\ChuksKitchen.Application.csproj|solutionrelative:chuckskitchen.application\\assemblyreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7744F025-E004-133D-20AD-D6DD06DB8207}|ChucksKitchen.Domain\\ChuksKitchen.Domain.csproj|c:\\users\\user\\desktop\\true minds\\chuckskitchenapi\\chuckskitchen\\chuckskitchen.domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7744F025-E004-133D-20AD-D6DD06DB8207}|ChucksKitchen.Domain\\ChuksKitchen.Domain.csproj|solutionrelative:chuckskitchen.domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7744F025-E004-133D-20AD-D6DD06DB8207}|ChucksKitchen.Domain\\ChuksKitchen.Domain.csproj|c:\\users\\user\\desktop\\true minds\\chuckskitchenapi\\chuckskitchen\\chuckskitchen.domain\\entities\\fooditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7744F025-E004-133D-20AD-D6DD06DB8207}|ChucksKitchen.Domain\\ChuksKitchen.Domain.csproj|solutionrelative:chuckskitchen.domain\\entities\\fooditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7744F025-E004-133D-20AD-D6DD06DB8207}|ChucksKitchen.Domain\\ChuksKitchen.Domain.csproj|c:\\users\\user\\desktop\\true minds\\chuckskitchenapi\\chuckskitchen\\chuckskitchen.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7744F025-E004-133D-20AD-D6DD06DB8207}|ChucksKitchen.Domain\\ChuksKitchen.Domain.csproj|solutionrelative:chuckskitchen.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81162A74-0B3E-9DF3-36B7-FCB9ABEEBB76}|ChucksKitchen.API\\ChuksKitchen.API.csproj|c:\\users\\user\\desktop\\true minds\\chuckskitchenapi\\chuckskitchen\\chuckskitchen.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{81162A74-0B3E-9DF3-36B7-FCB9ABEEBB76}|ChucksKitchen.API\\ChuksKitchen.API.csproj|solutionrelative:chuckskitchen.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1868876116:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1972725675:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegisterUserValidator.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\True MInds\\ChucksKitchenAPI\\ChucksKitchen\\ChucksKitchen.Application\\Users\\Commands\\RegisterUserValidator.cs",
+              "RelativeDocumentMoniker": "ChucksKitchen.Application\\Users\\Commands\\RegisterUserValidator.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\True MInds\\ChucksKitchenAPI\\ChucksKitchen\\ChucksKitchen.Application\\Users\\Commands\\RegisterUserValidator.cs",
+              "RelativeToolTip": "ChucksKitchen.Application\\Users\\Commands\\RegisterUserValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T06:41:13.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\True MInds\\ChucksKitchenAPI\\ChucksKitchen\\ChucksKitchen.API\\Program.cs",
+              "RelativeDocumentMoniker": "ChucksKitchen.API\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\True MInds\\ChucksKitchenAPI\\ChucksKitchen\\ChucksKitchen.API\\Program.cs",
+              "RelativeToolTip": "ChucksKitchen.API\\Program.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAADsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T20:53:03.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetOrderStatusQuery.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\True MInds\\ChucksKitchenAPI\\ChucksKitchen\\ChucksKitchen.Application\\Orders\\Queries\\GetOrderStatusQuery.cs",
+              "RelativeDocumentMoniker": "ChucksKitchen.Application\\Orders\\Queries\\GetOrderStatusQuery.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\True MInds\\ChucksKitchenAPI\\ChucksKitchen\\ChucksKitchen.Application\\Orders\\Queries\\GetOrderStatusQuery.cs",
+              "RelativeToolTip": "ChucksKitchen.Application\\Orders\\Queries\\GetOrderStatusQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T21:59:34.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\True MInds\\ChucksKitchenAPI\\ChucksKitchen\\ChucksKitchen.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ChucksKitchen.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\True MInds\\ChucksKitchenAPI\\ChucksKitchen\\ChucksKitchen.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ChucksKitchen.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-26T20:51:51.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetOrderStatusHandler.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\True MInds\\ChucksKitchenAPI\\ChucksKitchen\\ChucksKitchen.Application\\Orders\\Queries\\GetOrderStatusHandler.cs",
+              "RelativeDocumentMoniker": "ChucksKitchen.Application\\Orders\\Queries\\GetOrderStatusHandler.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\True MInds\\ChucksKitchenAPI\\ChucksKitchen\\ChucksKitchen.Application\\Orders\\Queries\\GetOrderStatusHandler.cs",
+              "RelativeToolTip": "ChucksKitchen.Application\\Orders\\Queries\\GetOrderStatusHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T22:00:04.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\True MInds\\ChucksKitchenAPI\\ChucksKitchen\\ChucksKitchen.API\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "ChucksKitchen.API\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\True MInds\\ChucksKitchenAPI\\ChucksKitchen\\ChucksKitchen.API\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "ChucksKitchen.API\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T22:00:36.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlaceOrderHandler.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\True MInds\\ChucksKitchenAPI\\ChucksKitchen\\ChucksKitchen.Application\\Orders\\Commands\\PlaceOrderHandler.cs",
+              "RelativeDocumentMoniker": "ChucksKitchen.Application\\Orders\\Commands\\PlaceOrderHandler.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\True MInds\\ChucksKitchenAPI\\ChucksKitchen\\ChucksKitchen.Application\\Orders\\Commands\\PlaceOrderHandler.cs",
+              "RelativeToolTip": "ChucksKitchen.Application\\Orders\\Commands\\PlaceOrderHandler.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAADYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T21:58:29.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PlaceOrderCommand.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\True MInds\\ChucksKitchenAPI\\ChucksKitchen\\ChucksKitchen.Application\\Orders\\Commands\\PlaceOrderCommand.cs",
+              "RelativeDocumentMoniker": "ChucksKitchen.Application\\Orders\\Commands\\PlaceOrderCommand.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\True MInds\\ChucksKitchenAPI\\ChucksKitchen\\ChucksKitchen.Application\\Orders\\Commands\\PlaceOrderCommand.cs",
+              "RelativeToolTip": "ChucksKitchen.Application\\Orders\\Commands\\PlaceOrderCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T21:57:55.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GetFoodItemsHandler.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\True MInds\\ChucksKitchenAPI\\ChucksKitchen\\ChucksKitchen.Application\\Foods\\Queries\\GetFoodItemsHandler.cs",
+              "RelativeDocumentMoniker": "ChucksKitchen.Application\\Foods\\Queries\\GetFoodItemsHandler.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\True MInds\\ChucksKitchenAPI\\ChucksKitchen\\ChucksKitchen.Application\\Foods\\Queries\\GetFoodItemsHandler.cs",
+              "RelativeToolTip": "ChucksKitchen.Application\\Foods\\Queries\\GetFoodItemsHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T21:55:11.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FoodsController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\True MInds\\ChucksKitchenAPI\\ChucksKitchen\\ChucksKitchen.API\\Controllers\\FoodsController.cs",
+              "RelativeDocumentMoniker": "ChucksKitchen.API\\Controllers\\FoodsController.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\True MInds\\ChucksKitchenAPI\\ChucksKitchen\\ChucksKitchen.API\\Controllers\\FoodsController.cs",
+              "RelativeToolTip": "ChucksKitchen.API\\Controllers\\FoodsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T21:50:24.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ChuksKitchen.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\True MInds\\ChucksKitchenAPI\\ChucksKitchen\\ChucksKitchen.Application\\ChuksKitchen.Application.csproj",
+              "RelativeDocumentMoniker": "ChucksKitchen.Application\\ChuksKitchen.Application.csproj",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\True MInds\\ChucksKitchenAPI\\ChucksKitchen\\ChucksKitchen.Application\\ChuksKitchen.Application.csproj",
+              "RelativeToolTip": "ChucksKitchen.Application\\ChuksKitchen.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-26T20:55:44.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GetFoodItemsQuery.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\True MInds\\ChucksKitchenAPI\\ChucksKitchen\\ChucksKitchen.Application\\Foods\\Queries\\GetFoodItemsQuery.cs",
+              "RelativeDocumentMoniker": "ChucksKitchen.Application\\Foods\\Queries\\GetFoodItemsQuery.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\True MInds\\ChucksKitchenAPI\\ChucksKitchen\\ChucksKitchen.Application\\Foods\\Queries\\GetFoodItemsQuery.cs",
+              "RelativeToolTip": "ChucksKitchen.Application\\Foods\\Queries\\GetFoodItemsQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T21:54:35.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\True MInds\\ChucksKitchenAPI\\ChucksKitchen\\ChucksKitchen.Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ChucksKitchen.Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\True MInds\\ChucksKitchenAPI\\ChucksKitchen\\ChucksKitchen.Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ChucksKitchen.Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T21:00:16.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\True MInds\\ChucksKitchenAPI\\ChucksKitchen\\ChucksKitchen.Infrastructure\\Seeders\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "ChucksKitchen.Infrastructure\\Seeders\\DbInitializer.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\True MInds\\ChucksKitchenAPI\\ChucksKitchen\\ChucksKitchen.Infrastructure\\Seeders\\DbInitializer.cs",
+              "RelativeToolTip": "ChucksKitchen.Infrastructure\\Seeders\\DbInitializer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T21:49:04.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RegisterUserHandler.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\True MInds\\ChucksKitchenAPI\\ChucksKitchen\\ChucksKitchen.Application\\Users\\Commands\\RegisterUserHandler.cs",
+              "RelativeDocumentMoniker": "ChucksKitchen.Application\\Users\\Commands\\RegisterUserHandler.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\True MInds\\ChucksKitchenAPI\\ChucksKitchen\\ChucksKitchen.Application\\Users\\Commands\\RegisterUserHandler.cs",
+              "RelativeToolTip": "ChucksKitchen.Application\\Users\\Commands\\RegisterUserHandler.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwCgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T21:17:37.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "VerifyOtpHandler.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\True MInds\\ChucksKitchenAPI\\ChucksKitchen\\ChucksKitchen.Application\\Users\\Commands\\VerifyOtpHandler.cs",
+              "RelativeDocumentMoniker": "ChucksKitchen.Application\\Users\\Commands\\VerifyOtpHandler.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\True MInds\\ChucksKitchenAPI\\ChucksKitchen\\ChucksKitchen.Application\\Users\\Commands\\VerifyOtpHandler.cs",
+              "RelativeToolTip": "ChucksKitchen.Application\\Users\\Commands\\VerifyOtpHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T21:24:56.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ChuksKitchen.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\True MInds\\ChucksKitchenAPI\\ChucksKitchen\\ChucksKitchen.Infrastructure\\ChuksKitchen.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "ChucksKitchen.Infrastructure\\ChuksKitchen.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\True MInds\\ChucksKitchenAPI\\ChucksKitchen\\ChucksKitchen.Infrastructure\\ChuksKitchen.Infrastructure.csproj",
+              "RelativeToolTip": "ChucksKitchen.Infrastructure\\ChuksKitchen.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-26T20:56:00.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\True MInds\\ChucksKitchenAPI\\ChucksKitchen\\ChucksKitchen.Application\\Common\\Interfaces\\IApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ChucksKitchen.Application\\Common\\Interfaces\\IApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\True MInds\\ChucksKitchenAPI\\ChucksKitchen\\ChucksKitchen.Application\\Common\\Interfaces\\IApplicationDbContext.cs",
+              "RelativeToolTip": "ChucksKitchen.Application\\Common\\Interfaces\\IApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T21:29:39.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\True MInds\\ChucksKitchenAPI\\ChucksKitchen\\ChucksKitchen.API\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "ChucksKitchen.API\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\True MInds\\ChucksKitchenAPI\\ChucksKitchen\\ChucksKitchen.API\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "ChucksKitchen.API\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T21:22:53.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "VerifyOtpCommand.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\True MInds\\ChucksKitchenAPI\\ChucksKitchen\\ChucksKitchen.Application\\Users\\Commands\\VerifyOtpCommand.cs",
+              "RelativeDocumentMoniker": "ChucksKitchen.Application\\Users\\Commands\\VerifyOtpCommand.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\True MInds\\ChucksKitchenAPI\\ChucksKitchen\\ChucksKitchen.Application\\Users\\Commands\\VerifyOtpCommand.cs",
+              "RelativeToolTip": "ChucksKitchen.Application\\Users\\Commands\\VerifyOtpCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T21:24:21.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "JsonResponse.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\True MInds\\ChucksKitchenAPI\\ChucksKitchen\\ChucksKitchen.Application\\Common\\JsonResponse.cs",
+              "RelativeDocumentMoniker": "ChucksKitchen.Application\\Common\\JsonResponse.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\True MInds\\ChucksKitchenAPI\\ChucksKitchen\\ChucksKitchen.Application\\Common\\JsonResponse.cs",
+              "RelativeToolTip": "ChucksKitchen.Application\\Common\\JsonResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T21:12:33.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ChuksKitchen.API.csproj",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\True MInds\\ChucksKitchenAPI\\ChucksKitchen\\ChucksKitchen.API\\ChuksKitchen.API.csproj",
+              "RelativeDocumentMoniker": "ChucksKitchen.API\\ChuksKitchen.API.csproj",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\True MInds\\ChucksKitchenAPI\\ChucksKitchen\\ChucksKitchen.API\\ChuksKitchen.API.csproj",
+              "RelativeToolTip": "ChucksKitchen.API\\ChuksKitchen.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-26T20:56:18.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ChuksKitchen.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\True MInds\\ChucksKitchenAPI\\ChucksKitchen\\ChucksKitchen.Domain\\ChuksKitchen.Domain.csproj",
+              "RelativeDocumentMoniker": "ChucksKitchen.Domain\\ChuksKitchen.Domain.csproj",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\True MInds\\ChucksKitchenAPI\\ChucksKitchen\\ChucksKitchen.Domain\\ChuksKitchen.Domain.csproj",
+              "RelativeToolTip": "ChucksKitchen.Domain\\ChuksKitchen.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-26T20:57:06.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "RegisterUserCommand.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\True MInds\\ChucksKitchenAPI\\ChucksKitchen\\ChucksKitchen.Application\\Users\\Commands\\RegisterUserCommand.cs",
+              "RelativeDocumentMoniker": "ChucksKitchen.Application\\Users\\Commands\\RegisterUserCommand.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\True MInds\\ChucksKitchenAPI\\ChucksKitchen\\ChucksKitchen.Application\\Users\\Commands\\RegisterUserCommand.cs",
+              "RelativeToolTip": "ChucksKitchen.Application\\Users\\Commands\\RegisterUserCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T21:17:06.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AssemblyReference.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\True MInds\\ChucksKitchenAPI\\ChucksKitchen\\ChucksKitchen.Application\\AssemblyReference.cs",
+              "RelativeDocumentMoniker": "ChucksKitchen.Application\\AssemblyReference.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\True MInds\\ChucksKitchenAPI\\ChucksKitchen\\ChucksKitchen.Application\\AssemblyReference.cs",
+              "RelativeToolTip": "ChucksKitchen.Application\\AssemblyReference.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T21:14:58.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\True MInds\\ChucksKitchenAPI\\ChucksKitchen\\ChucksKitchen.Domain\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "ChucksKitchen.Domain\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\True MInds\\ChucksKitchenAPI\\ChucksKitchen\\ChucksKitchen.Domain\\Entities\\Order.cs",
+              "RelativeToolTip": "ChucksKitchen.Domain\\Entities\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T20:58:36.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "FoodItem.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\True MInds\\ChucksKitchenAPI\\ChucksKitchen\\ChucksKitchen.Domain\\Entities\\FoodItem.cs",
+              "RelativeDocumentMoniker": "ChucksKitchen.Domain\\Entities\\FoodItem.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\True MInds\\ChucksKitchenAPI\\ChucksKitchen\\ChucksKitchen.Domain\\Entities\\FoodItem.cs",
+              "RelativeToolTip": "ChucksKitchen.Domain\\Entities\\FoodItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T20:57:59.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\True MInds\\ChucksKitchenAPI\\ChucksKitchen\\ChucksKitchen.Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "ChucksKitchen.Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\True MInds\\ChucksKitchenAPI\\ChucksKitchen\\ChucksKitchen.Domain\\Entities\\User.cs",
+              "RelativeToolTip": "ChucksKitchen.Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T20:57:33.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\True MInds\\ChucksKitchenAPI\\ChucksKitchen\\ChucksKitchen.API\\appsettings.json",
+              "RelativeDocumentMoniker": "ChucksKitchen.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\True MInds\\ChucksKitchenAPI\\ChucksKitchen\\ChucksKitchen.API\\appsettings.json",
+              "RelativeToolTip": "ChucksKitchen.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-26T20:53:00.737Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
